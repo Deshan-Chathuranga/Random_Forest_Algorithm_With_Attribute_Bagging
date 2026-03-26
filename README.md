@@ -6,8 +6,8 @@ Using a real-world customer churn scenario, this project demonstrates how ensemb
 
 ## 📂 Project Structure
 
-* **`Tutorial_On_Attribute_bagging_technique_for_Customer_churn_prediction.ipynb`**: A hands-on Jupyter Notebook featuring data preprocessing, model training, hyperparameter tuning, and detailed evaluation.
-* **`MLNN_Tutorial-Random Forests_Understanding Attribute Bagging.pdf`**: A theoretical guide covering ensemble learning principles, feature randomness, and the ethical implications of AI.
+* **`24178639_Tutorial_On_Attribute_bagging_technique_for_Customer_churn_prediction.ipynb`**: A hands-on Jupyter Notebook featuring data preprocessing, model training, hyperparameter tuning, and detailed evaluation.
+* **`24178639_MLNN_Tutorial-Random Forests_Understanding Attribute Bagging.pdf`**: A theoretical guide covering ensemble learning principles, feature randomness, and the ethical implications of AI.
 * **`customer_churn_business_dataset.csv`**: The primary dataset used for the analysis, containing features like tenure, monthly logins, CSAT scores, and revenue.
 * **`plot_1_mlnn_tutorial.png`**: Visualization of Model Performance / Confusion Matrix.
 * **`plot_2_mlnn_tutorial.png`**: Visualization of Feature Importance.
@@ -32,3 +32,8 @@ Decision trees are known for having high variance (overfitting). By aggregating 
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/Deshan-Chathuranga/Random_Forest_Algorithm_With_Attribute_Bagging.git](https://github.com/Deshan-Chathuranga/Random_Forest_Algorithm_With_Attribute_Bagging.git)
+2. **Install the required packages:**:
+```bash
+ pip install pandas numpy matplotlib seaborn scikit-learn
+3. **Run the Notebook**:
+   Open the .ipynb file in any Jupyter environment or Google Colab to see the full analysis and results.
