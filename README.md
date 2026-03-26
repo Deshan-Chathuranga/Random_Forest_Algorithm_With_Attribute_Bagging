@@ -35,5 +35,3 @@ Decision trees are known for having high variance (overfitting). By aggregating 
 2. **Install the required packages:**:
 ```bash
  pip install pandas numpy matplotlib seaborn scikit-learn
-3. **Run the Notebook**:
-   Open the .ipynb file in any Jupyter environment or Google Colab to see the full analysis and results.
